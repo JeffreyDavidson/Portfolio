@@ -46,27 +46,27 @@ echo '</pre>';
 
 
 /**
- * Function for returning provided array alphabetically
+ * Function for returning provided array alphabetically.
  *
- * @param array $colleges Array of colleges visited.
- * @param array $colleges Array of colleges visited.
+ * @param array $a Array element.
+ * @param array $b Array element.
  *
  * @return array $colleges Alphabetically sorted array.
  */
 function sort_by_name($a, $b) {
-	return strnatcmp($a['name'], $b['name']);
+	return $a['name'] > $b['name'];
 }
 
 /**
- * Function for returning provided array alphabetically
+ * Function for returning provided array sorted by distance closest to her brother.
  *
- * @param array $colleges Array of colleges visited.
- * @param array $colleges Array of colleges visited.
+ * @param array $a Array element.
+ * @param array $b Array element.
  *
  * @return array $colleges Alphabetically sorted array.
  */
 function sort_by_distance_closest_to_me($a, $b) {
-	return strnatcmp($a['distance'], $b['distance']);
+	return $a['distance'] > $b['distance'];
 }
 
 ?>
