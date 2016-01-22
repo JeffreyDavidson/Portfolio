@@ -78,4 +78,11 @@ for park in range(0, len(disney_parks)):
     else:
         print disney_parks[park] + ',',
 
+# Our vacation story continues...
+print "Each of these parks has a park icon. The first icon is " + disney_disney_parks_icons[disney_parks[0]] + " for the " + disney_parks[0] + ". There is also the " + disney_disney_parks_icons[disney_parks[1]] + " for the " + disney_parks[1] + "."
+
+print "There are two other landmark icons for these parks. The icon for " + disney_parks[2] + " used to be Mickey's Sorcerer Hat, however they decided to take it down so now it is " + disney_disney_parks_icons[disney_parks[2]] + " and you can't forget about the " + disney_disney_parks_icons[disney_parks[3]] + " which is actually called Spaceship Earth at " + disney_parks[3] + "."
+
+print "It can get a little pricey for a trip to Disney World. With how long we want to go on vacation for, this trip will cost us $" + str(vacation_cost) + " each. So the total for both of us is $" + str(grand_total_vacation_cost) + ". I know its a lot of money but we both would enjoy it. So it will be worth it. I'll even buy you Mickey Ears personalized with your name, " + your_name + ", embroidered on the back."
+
 
