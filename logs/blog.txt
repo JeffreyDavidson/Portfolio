@@ -1,3 +1,19 @@
 January 18, 2016
 
 Today I worked on catching up on my previous week's assignments. I took the day off of work to focus on my education and my portfolio. In working on my assignments I have completed all work from Week 2 and have placed myself in a position for success for Week 3. I have completed my anchor points, worked on my Trello list called Project Back Log, updated my mission statement and decided what concepts to I was going to target this week. I spent some time doing research on laravel.com in regards to a current on-going project. This will help me when I start working on unit testing as a concept for this week.
+
+January 19, 2016
+
+Today was a productive day for me. I went up to the school and met with Brandon. We discussed wireframing. His suggestion for the week was to look at existing websites and draw the wireframe for those sites. We agreed to meet again, and we can look wireframes in more detail. I was also at the school and sat in on the class that Edward teaches. For the own personal coding I worked with arrays inside of PHP. This code is about different colleges and how to help my sister decide which school to choose. I also researched Swift on Treehouse. There were a couple of videos that I watched for Swift.
+
+January 20, 2016
+
+I didn’t get the time to code today like I had hoped. I had an appointment in the morning and then Cassie and I needed to start apartment hunting. Our current complex is raising our rent at the end of our lease so we needed to look for other options. That lasted into the early evening. I had a conversation with Edward about the rubric for the week-in-review document. After that conversation I went back over what I had submitted. Since I have to work in the morning, I am making this an early night. 
+
+January 21, 2016
+
+Unfortunately, I didn’t code today either. I had to work all day. By the time I got home and got something to eat, I was just worn out from the day.
+
+January 22, 2016
+
+Today I was able to sit down and work on some stuff. I first read a story out of the Mastery book and wrote a summary on it for class discussion. Today I concentrated on looking through all my files from past classes. I went through and looked for what files would be good additions to my portfolio and which ones I could improve upon or fix because there were errors. These projects include the languages of Python, PHP, AngularJS, and JQuery. I also took some time too watch a video on lynda.com. This video is Web Design Fundamentals by James Williamson. I spent some time talking to a fellow developer, whom I have had a good relationship with for a few years. We discussed empty directories inside of a repository and using a .gitkeep versus .keep file extension to have the directory show in a remote repository.
