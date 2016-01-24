@@ -1,0 +1,40 @@
+body {
+    margin: 0; padding: 0;
+}
+
+div#container {
+    width: 960px; margin: 0px auto;
+}
+
+h2 {
+    display: inline;
+    padding-right: 10px;
+}
+
+#item-count {
+    font-size: 30px;
+}
+
+table {
+    width: 100%; border-width: 1px;
+}
+
+.actions {
+    width: 10%;
+}
+
+tr.odd {
+    background-color: #90EE90;
+}
+
+tr.even {
+    background-color: #C1C1FF
+}
+
+.glyphicon-pencil, .glyphicon-remove {
+	cursor: pointer;
+}
+
+.error {
+    font-color: red;
+}
