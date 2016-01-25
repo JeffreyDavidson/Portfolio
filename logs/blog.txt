@@ -17,3 +17,12 @@ Unfortunately, I didn’t code today either. I had to work all day. By the time 
 January 22, 2016
 
 Today I was able to sit down and work on some stuff. I first read a story out of the Mastery book and wrote a summary on it for class discussion. Today I concentrated on looking through all my files from past classes. I went through and looked for what files would be good additions to my portfolio and which ones I could improve upon or fix because there were errors. These projects include the languages of Python, PHP, AngularJS, and JQuery. I also took some time too watch a video on lynda.com. This video is Web Design Fundamentals by James Williamson. I spent some time talking to a fellow developer, whom I have had a good relationship with for a few years. We discussed empty directories inside of a repository and using a .gitkeep versus .keep file extension to have the directory show in a remote repository.
+
+January 23, 2016
+
+I had to work in the morning and then when I came home I watched some videos on Treehouse about Swift to increase my knowledge of the subject as well as continued a video lesson series on Web Design on Lynda.com. After that I was exhausted from the day so I didn't get as much done as I would have liked.
+
+
+January 24, 2016
+
+Today I watched some videos on Laracasts to improve my skills with the framework. Then I went through 3 of my AngularJS projects from a previous class and continued to improved upon them and made sure they gave me the expected results. I also made a few posts on stackoverflow.com on issues that I was struggling with and was provided help and resources to help me learn how to use the HTML5 Mode for Angular to be able to handle routing. I was not able to get more into my Python projects but this is something I hope to get to this week.
