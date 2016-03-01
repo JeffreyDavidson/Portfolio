@@ -8,15 +8,20 @@ To persevere through the many struggles to produce quality samplings of my acqui
 * PHP
 * MySQL
 * Python
+* HTML4
 * HTML5
+* CSS
 * CSS3
 
 ## Frameworks
-* CodeIgniter
-* Laravel
-* AngularJS
-* jQuery
-* Bootstrap
+* CodeIgniter (PHP)
+* Laravel (PHP)
+* AngularJS (JavaScript)
+* jQuery (JavaScript)
+* Bootstrap (CSS)
+
+## Runtimes
+* Nodejs (JavaScript)
 
 ## About Me
 
