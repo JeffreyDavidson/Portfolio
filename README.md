@@ -12,6 +12,7 @@ To persevere through the many struggles to produce quality samplings of my acqui
 * HTML5
 * CSS
 * CSS3
+* JavaScript
 
 ## Frameworks
 * CodeIgniter (PHP)
