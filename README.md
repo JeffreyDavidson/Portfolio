@@ -31,3 +31,6 @@ I am challenging myself to become a well rounded developer by improving my skill
 
 ## Objective
 My goal is to put together a portfolio of works that showcases my work as a web developer. I work with an eye for detail ensuring that code is well documented as well as errors are properly found and corrected. As a loyal and hard working candidate I can promise to produce results within a desired timeline. I will communicate status updates with you and other project team members. As the world of web development continues to grow I challenge myself to read upon and learn new facets in our industry and always seek have continuous learning through my entire career. 
+
+##Additional Repositories To Show What I've Learned
+Team Treehouse: (https://github.com/JeffreyDavidson/treehouse)
